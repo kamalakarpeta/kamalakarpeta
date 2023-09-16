@@ -1,5 +1,3 @@
-
-
 <img src="https://github.com/kamalakarpeta/kamalakarpeta/blob/main/Welcome-Animated-shape-PixTeller.gif?raw=true" width="2000" height="500" />
 
 ## About Me
