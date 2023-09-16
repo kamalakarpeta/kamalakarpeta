@@ -1,14 +1,14 @@
 
 
-<img src="https://github.com/mvneema/mvneema/blob/main/Welcome-Animated-shape-PixTeller.gif?raw=true" width="2000" height="500" />
+<img src="https://github.com/kamalakarpeta/kamalakarpeta/blob/main/Welcome-Animated-shape-PixTeller.gif?raw=true" width="2000" height="500" />
 
 ## About Me
-* Currently Employed at Verizon India as A Data Scientist and Data Analyst :computer: :office:
-* MS in Computer Science @Northeastern University :books:
-* AIML Post Graduate Student :school:
+* Currently Employed at Moodys Analytics as A Data Scientist and Data Analyst :computer: :office:
+* B.Tech in Computer Science @JNTU Anantapur University :books:
+* MBA with Finance specialization @Sri Venkateswara University :school:
 * Passionate Learner :bulb: :high_brightness:
 * Books Lover :notebook_with_decorative_cover:
-* Chennaite :house: :sunrise:
+* Living in Bangalore :house: :sunrise:
 
 ## My Skills:
 * Languages:
@@ -32,7 +32,7 @@
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/neema-madayi-veetil/">
+<a href="https://www.linkedin.com/in/kamalakarpeta/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
@@ -44,7 +44,7 @@
          src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
          />
   </a>
-  <a href="https://mvneema.github.io/DataSciencePortfolio-Neema/">
+  <a href="https://kamalakarpeta.github.io/">
         <img 
              alt="Portfolio"
              src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"
@@ -56,7 +56,7 @@
            src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"
            />
   </a>
-  <a href="https://twitter.com/NeemaMV">
+  <a href="https://twitter.com/kamalakarpeta">
   <img
     alt="Twitter"
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
@@ -68,7 +68,7 @@
        src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"
        />
   </a>
-  <a href="mvneema10@gmail.com">
+  <a href="kamalakarpeta@outlook.com">
   <img
        alt="Email"
        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -78,9 +78,9 @@
 ## More About Me:
 
 I follow the #bookaweek challenge and have a challenge to read 52 books in a year. 
-I love particing "Yoga" and believe everyone should try Yoga atleast once in their life. 
+I love practicing "Yoga" and believe everyone should try Yoga at least once in their life. 
 
-[![Neema's github stats](https://github-readme-stats.vercel.app/api?username=mvneema&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Kamalakar's github stats](https://github-readme-stats.vercel.app/api?username=kamalakarpeta&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/mvneema/ama)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/kamalakarpeta/)
 
