@@ -1,4 +1,4 @@
-<img src="[https://github.com/kamalakarpeta/kamalakarpeta/Welcome-Animated-shape-PixTeller.gif](https://github.com/kamalakarpeta/kamalakarpeta/blob/master/Welcome-Animated-shape-PixTeller.gif)?raw=true" width="2000" height="500" />
+<img src="https://github.com/kamalakarpeta/kamalakarpeta/blob/master/Welcome-Animated-shape-PixTeller.gif?raw=true" width="2000" height="500" />
 
 ## About Me
 * Currently Employed at Moodys Analytics as A Data Scientist and Data Analyst :computer: :office:
