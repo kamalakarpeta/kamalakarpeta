@@ -2,7 +2,7 @@
 
 ## About Me
 * Currently Employed at Moodys Analytics as A Data Scientist and Data Analyst :computer: :office:
-* B.Tech in Computer Science @JNTU Anantapur University :books:
+* B.Tech in Computer Science and Engineering @JNTU Anantapur University :books:
 * MBA with Finance specialization @Sri Venkateswara University :school:
 * Passionate Learner :bulb: :high_brightness:
 * Books Lover :notebook_with_decorative_cover:
