@@ -36,23 +36,11 @@
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
   </a>
-  <a href="https://mvneema10.medium.com/">
-    <img
-         alt= "Medium"
-         src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
-         />
-  </a>
   <a href="https://kamalakarpeta.github.io/">
         <img 
              alt="Portfolio"
              src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"
              />
-  </a>
-  <a href="https://neemaunni.wixsite.com/mysite">
-      <img 
-           alt="Blog"
-           src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"
-           />
   </a>
   <a href="https://twitter.com/kamalakarpeta">
   <img
@@ -60,12 +48,6 @@
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
   />
 </a>
-  <a href="https://linktr.ee/NeemaMV">
-  <img 
-       alt="Linktree"
-       src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"
-       />
-  </a>
   <a href="kamalakarpeta@outlook.com">
   <img
        alt="Email"
