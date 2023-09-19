@@ -1,7 +1,7 @@
 <img src="https://github.com/kamalakarpeta/kamalakarpeta/blob/master/Welcome-Animated-shape-PixTeller.gif?raw=true" width="2000" height="500" />
 
 ## About Me
-* Currently Employed at Moodys Analytics as A Data Scientist and Data Analyst :computer: :office:
+* Currently Employed at Moodys Analytics India as A Data Scientist and Data Analyst :computer: :office:
 * B.Tech in Computer Science and Engineering @JNTU Anantapur University :books:
 * MBA with Finance specialization @Sri Venkateswara University :school:
 * Passionate Learner :bulb: :high_brightness:
