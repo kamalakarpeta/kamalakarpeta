@@ -1,4 +1,5 @@
-<!img src="https://github.com/kamalakarpeta/kamalakarpeta/blob/master/Welcome-Animated-shape-PixTeller.gif?raw=true" width="2000" height="500" />
+<img src="https://github.com/kamalakarpeta/kamalakarpeta/blob/master/Welcome-Animated-shape-PixTeller.gif?raw=true" width="400" height="200" />
+
 ## About Me
 * Currently Employed at Moodys Analytics India as A Data Scientist and Data Analyst :computer: :office:
 * B.Tech in Computer Science and Engineering @JNTU Anantapur University :books:
@@ -52,12 +53,12 @@
        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
-
+<!--
 ## More About Me:
 
 I follow the #bookaweek challenge and have a challenge to read 52 books in a year. 
 I love practicing "Yoga" and believe everyone should try Yoga at least once in their life. 
-
+-->
 [![Kamalakar's github stats](https://github-readme-stats.vercel.app/api?username=kamalakarpeta&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/kamalakarpeta/)
