@@ -41,7 +41,7 @@ A progressive portfolio, from early pipelines to today's lakehouse + GenAI platf
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=delta&logoColor=white)
 ![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-42B2D8?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-42B2D8?style=for-the-badge)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E69420?style=for-the-badge&logo=apachespark&logoColor=black)
 
@@ -53,10 +53,10 @@ A progressive portfolio, from early pipelines to today's lakehouse + GenAI platf
 
 **Cloud**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0361C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0361C6?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 
 **Languages**
 
@@ -71,7 +71,7 @@ A progressive portfolio, from early pipelines to today's lakehouse + GenAI platf
 
 **BI & Visualization**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-B8860B?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Databases & Storage**
@@ -83,7 +83,7 @@ A progressive portfolio, from early pipelines to today's lakehouse + GenAI platf
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
@@ -98,16 +98,16 @@ A progressive portfolio, from early pipelines to today's lakehouse + GenAI platf
 ## 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/kamalakarpeta/">
-  <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
 </a>
 <a href="https://kamalakarpeta.github.io/">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
 <a href="https://twitter.com/kamalakarpeta">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="mailto:kamalakarpeta@outlook.com">
-  <img alt="Email" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img alt="Email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge" />
 </a>
 
 ---
