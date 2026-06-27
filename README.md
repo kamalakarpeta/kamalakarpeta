@@ -21,12 +21,12 @@ GenAI/RAG proof-of-concept on top.
 
 ## 🚀 Featured work — a Data & AI Platform Engineer's journey
 
-A progressive portfolio, from early pipelines to today's lakehouse + GenAI platforms:
+A progressive portfolio, from early Python/SQL pipelines to today's Databricks & Microsoft Fabric lakehouse platforms — and a first GenAI/RAG proof-of-concept:
 
 | Year | Project | Stack |
 | ---- | ------- | ----- |
 | 2026 | [Enterprise Lakehouse on Microsoft Fabric](https://github.com/kamalakarpeta/enterprise-lakehouse-microsoft-fabric) | Fabric · OneLake · Direct Lake · medallion |
-| 2025 | [Financial-Research RAG on Databricks](https://github.com/kamalakarpeta/financial-research-rag-databricks-genai) | Mosaic AI Vector Search · MLflow · model serving |
+| 2025 | [Financial-Research RAG on Databricks](https://github.com/kamalakarpeta/financial-research-rag-databricks-genai) | Mosaic AI Vector Search · MLflow · RAG |
 | 2023 | [Grant-Data Integration Pipeline](https://github.com/kamalakarpeta/grant-data-integration-databricks-pipeline) | Databricks · PySpark · Delta · Great Expectations |
 | 2022 | [Customs & Trade Analytics Lakehouse](https://github.com/kamalakarpeta/customs-trade-analytics-databricks-pyspark) | Databricks · Unity Catalog · medallion |
 | 2021 | [Platform-Usage Analytics](https://github.com/kamalakarpeta/platform-usage-analytics-azure-powerbi) | Azure (ADF · Synapse · ADLS) · Power BI |
