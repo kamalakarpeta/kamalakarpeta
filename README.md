@@ -2,21 +2,24 @@
 
 # Hi, I'm Kamalakar 👋
 
-### Data & AI Platform Architect — Databricks Lakehouse · GenAI · Microsoft Fabric
+### Hands-on Staff Data Engineer · Data & AI Platform Engineering — Databricks · Microsoft Fabric · Unity Catalog
 
-I design and build **governed lakehouse platforms** that turn raw enterprise data into
-trusted products for analysts, data scientists, and BI consumers. Twelve years across the
-stack — from hand-rolled Python/SQL pipelines to medallion lakehouses on Databricks and
-Microsoft Fabric, with GenAI/RAG serving layers on top.
+I build and own **governed lakehouse platforms** — the standards an engineering org builds
+on — that turn raw enterprise data into trusted products for analysts, data scientists, and
+BI consumers. 11+ years across the stack, from hand-rolled Python/SQL pricing pipelines to
+medallion lakehouses on Databricks and Microsoft Fabric — and, most recently, my first
+GenAI/RAG proof-of-concept on top.
 
-- 🏗️ **Currently:** Asst. Director, Data Engineering @ **Moody's** — architecting Databricks & Fabric data platforms
-- 🔭 **Focus:** Databricks (Delta, Unity Catalog, Mosaic AI), Microsoft Fabric / OneLake, medallion architecture, data quality & governance
+- 🏗️ **Currently:** Assistant Director, Data Engineering @ **Moody's** (Staff-level IC) — technical lead & standards owner for the Databricks + Microsoft Fabric lakehouse platform; design & CI/CD patterns reused across 12+ production pipelines
+- 🔭 **Focus:** Databricks (Delta Lake, Unity Catalog, PySpark at scale), Microsoft Fabric / OneLake, medallion architecture, data quality, governance & FinOps
+- 🤖 **Exploring:** GenAI on the data platform — built the team's first RAG POC on Mosaic AI Vector Search; extending into AI/ML platform engineering (feature stores, model serving, MLOps)
+- 🎯 **Where I'm headed:** hands-on Staff/Principal Data & AI Platform Engineer
 - 🎓 B.Tech CSE (JNTU Anantapur) · MBA Finance (Sri Venkateswara University)
 - 📍 Bangalore, India · 📚 perpetual learner
 
 ---
 
-## 🚀 Featured work — a Data & AI Platform Architect's journey
+## 🚀 Featured work — a Data & AI Platform Engineer's journey
 
 A progressive portfolio, from early pipelines to today's lakehouse + GenAI platforms:
 
